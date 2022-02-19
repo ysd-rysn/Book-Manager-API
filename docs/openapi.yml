@@ -4,6 +4,7 @@ info:
   version: "1.0"
 servers:
   - url: http://localhost:8080
+  - url: https://ysd-rysn-book-manager.herokuapp.com
 tags:
   - name: book
 paths:
