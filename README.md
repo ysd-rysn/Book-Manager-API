@@ -14,6 +14,6 @@
 6. http://localhost:8080 あてにリクエストを送る([API document]を参照)
 
 
-[API document]: ysd-rysn.github.io/book-manager-api/dist/index.html
+[API document]: https://ysd-rysn.github.io/Book-Manager-API/dist/index.html
 [Deployment to Heroku]: https://ysd-rysn-book-manager.herokuapp.com/
 [Deployment to AWS]: ###
