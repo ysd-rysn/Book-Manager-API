@@ -59,6 +59,13 @@ paths:
       summary: Update a book by ISBN
       parameters:
         - $ref: "#/components/parameters/ISBN"
+      requestBody:
+        description: Book object
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/Book"
+        required: true
       responses:
         200:
           $ref: "#/components/responses/200"
